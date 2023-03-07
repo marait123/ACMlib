@@ -54,7 +54,12 @@ TBA
 
 ## **Binary Search**
 
-https://leetcode.com/problems/minimum-time-to-complete-trips/solutions/3266855/all-binary-search-problems/
+
+list Good Binary Search Problems their links are found [here-leetcode](https://leetcode.com/problems/minimum-time-to-complete-trips/solutions/3266855/all-binary-search-problems/)
+
+https://leetcode.com/discuss/interview-question/777057/the-painters-partition-problem
+https://www.codechef.com/problems/PREZ
+For more problems you can refer to this page :- https://leetcode.com/problemset/all/?topicSlugs=binary-search&page=1
 
 
 ### **Misc**
