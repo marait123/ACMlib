@@ -52,6 +52,11 @@ TBA
 - [Misc](src/math/misc.cpp)
 
 
+## **Binary Search**
+
+https://leetcode.com/problems/minimum-time-to-complete-trips/solutions/3266855/all-binary-search-problems/
+
+
 ### **Misc**
 - [DigitSum](src/misc/digit_sum.cpp)
 - [IsPalindrome check](src/misc/is_palindrome.cpp)
